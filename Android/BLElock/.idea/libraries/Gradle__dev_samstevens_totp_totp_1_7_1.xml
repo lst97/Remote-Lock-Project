@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: dev.samstevens.totp:totp:1.7.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/dev.samstevens.totp/totp/1.7.1/c2bcced6c255d48223f5626c4db9af9aa9d43c35/totp-1.7.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/dev.samstevens.totp/totp/1.7.1/7c750ee597f5740a141ba1c440a23fbe8ee76678/totp-1.7.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/dev.samstevens.totp/totp/1.7.1/bd5d53d14dab0bb824e47171af6280528767922c/totp-1.7.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

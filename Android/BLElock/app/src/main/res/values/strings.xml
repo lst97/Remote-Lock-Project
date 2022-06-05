@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BLElock</string>
+    <string name="log">Log</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="lock">Lock</string>
+    <string name="connect">Connect</string>
+    <string name="unlock">Unlock</string>
+</resources>
